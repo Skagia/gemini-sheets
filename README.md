@@ -1,7 +1,7 @@
 # gemini-sheets
 Código para integrar API do Gemini com o Google Sheets
 
-👉 Aprenda como utilizar esse código: https://youtu.be/R5fLCqXNGnc
+👉 Aprenda como utilizar esse código: https://youtu.be/WaskJSMsOm4
 
 👉 Curso completo de Google Planilhas do básico ao avançado: https://www.udemy.com/course/google-planilhas-do-basico-ao-avancado/?referralCode=2AAEA916E7FA12466554
 
